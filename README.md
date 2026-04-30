@@ -11,7 +11,7 @@
 ## 💫 About Me
 
 ```python
-hassan = {
+janjua911 = {
     "name"      : "Hassan Janjua",
     "university": "COMSATS University Islamabad",
     "degree"    : "BS Artificial Intelligence (2023 – 2027)",
