@@ -1,9 +1,6 @@
 <div align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Janjua&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18"/> 
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hassan%20Janjua&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20Machine%20Learning%20Engineer&amp;descAlignY=55&amp;descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Cloud+Apps;8%2B+Projects+Deployed+%F0%9F%9A%80;Always+Learning.+Always+Shipping.+%E2%9C%85)](https://git.io/typing-svg)
 
@@ -48,24 +45,16 @@ hassan = {
 
 ---
 
-
 ## 💻 Tech Stack
 
-
 ### 🚀 Programming Languages
-<div align="center">
-    
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-    
-</div>
 
 ### 🧠 AI / Machine Learning
-<div align="center">
-    
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -74,11 +63,7 @@ hassan = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
 ### 🌐 Web & App Development
-
-<div align="center">
-    
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -87,27 +72,17 @@ hassan = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-</div>
-
 ### ☁️ Cloud & DevOps
-
-<div align="center">
-    
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-</div>
-
 ### 🗄️ Databases
-<div align="center">
-    
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<.div>
 ---
 
 ## 🚀 Featured Projects
@@ -199,10 +174,10 @@ AI-powered travel planner using search algorithms to generate preference-based, 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=janjua911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=janjua911&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=janjua911&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=janjua911&amp;theme=tokyonight&amp;hide_border=true"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janjua911&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janjua911&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"/>
 
 </div>
 
@@ -212,7 +187,7 @@ AI-powered travel planner using search algorithms to generate preference-based, 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=janjua911&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=janjua911&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7"/>
 
 </div>
 
@@ -222,7 +197,7 @@ AI-powered travel planner using search algorithms to generate preference-based, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=janjua911&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janjua911&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"/>
 
 </div>
 
@@ -232,7 +207,7 @@ AI-powered travel planner using search algorithms to generate preference-based, 
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight"/>
 
 </div>
 
@@ -240,9 +215,9 @@ AI-powered travel planner using search algorithms to generate preference-based, 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer"/>
 
-<img src="https://visitcount.itsvg.in/api?id=janjua911&icon=6&color=6"/>
+<img src="https://visitcount.itsvg.in/api?id=janjua911&amp;icon=6&amp;color=6"/>
 
 **Thanks for visiting! Let's build something amazing together 🚀**
 
