@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hassan%20Janjua&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20Machine%20Learning%20Engineer&amp;descAlignY=55&amp;descSize=18"/>
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Janjua&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Systems+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Cloud+Apps;8%2B+Projects+Deployed+%F0%9F%9A%80;Always+Learning.+Always+Shipping.+%E2%9C%85)](https://git.io/typing-svg)
 
@@ -174,10 +174,10 @@ AI-powered travel planner using search algorithms to generate preference-based, 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=janjua911&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=janjua911&amp;theme=tokyonight&amp;hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api?username=janjua911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=janjua911&theme=tokyonight&hide_border=true)
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janjua911&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=janjua911&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -187,7 +187,7 @@ AI-powered travel planner using search algorithms to generate preference-based, 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=janjua911&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7"/>
+![](https://github-profile-trophy.vercel.app/?username=janjua911&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -197,7 +197,7 @@ AI-powered travel planner using search algorithms to generate preference-based, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=janjua911&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true"/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=janjua911&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -207,7 +207,7 @@ AI-powered travel planner using search algorithms to generate preference-based, 
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -215,9 +215,9 @@ AI-powered travel planner using search algorithms to generate preference-based, 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer"/>
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
-<img src="https://visitcount.itsvg.in/api?id=janjua911&amp;icon=6&amp;color=6"/>
+![](https://visitcount.itsvg.in/api?id=janjua911&icon=6&color=6)
 
 **Thanks for visiting! Let's build something amazing together 🚀**
 
