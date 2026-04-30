@@ -12,7 +12,7 @@
 
 ```python
 janjua911 = {
-    "name"      : "Hassan Janjua",
+    "name"      : "Hassan Afzal Janjua",
     "university": "COMSATS University Islamabad",
     "degree"    : "BS Artificial Intelligence (2023 – 2027)",
     "location"  : "Islamabad, Pakistan",
