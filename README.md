@@ -23,7 +23,7 @@ janjua911 = {
 ```
 
 - 🎓 **CS/AI Student** at COMSATS University Islamabad
-- 🤖 Building **8+ real-world AI applications** — from face recognition to NLP pipelines
+- 🤖 Building **10+ real-world AI applications** — from face recognition to NLP pipelines
 - ☁️ Hands-on with **AWS, Docker, Jenkins** & cloud-native architectures
 - 📈 Achieved **90–95% accuracy & efficiency gains** across production ML projects
 - 🔐 Exploring **Cryptography, System Design & Backend Engineering**
